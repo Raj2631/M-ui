@@ -7,6 +7,10 @@
   pointer-events: none;
 }
 
+.App {
+  margin: 60px;
+}
+
 input {
   color: white !important;
 }
